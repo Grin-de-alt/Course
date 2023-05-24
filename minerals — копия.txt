@@ -1,0 +1,26 @@
+Abelsonite
+Category	Organic minerals
+Formula	C31H32N4Ni[1]
+IMA symbol	Abl[2]
+Strunz classification	10.CA.20
+Abernathyite
+Category	Arsenate minerals
+Formula	K(UO2)(AsO4)·3H2O[1]
+IMA symbol	Abn[2]
+Strunz classification	8.EB.15
+Abhurite
+Category	Halide mineral
+Formula	Sn21O6(OH)14Cl16
+IMA symbol	Abh[1]
+Strunz classification	3.DA.30
+Abramovite
+Category	Sulfides and Sulfosalts
+Formula	Pb2SnInBiS7
+IMA symbol	Abm[1]
+Strunz classification	2.HF.25a (10th edition)
+Adamite
+Category	Arsenate mineral
+Formula	Zn2AsO4OH
+IMA symbol	Ad[1]
+Strunz classification	8.BB.30
+
